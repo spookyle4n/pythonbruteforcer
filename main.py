@@ -37,7 +37,7 @@ import sys
 
 url = input("Enter Target Url: ")
 username = input("Enter Target Username: ")
-error = input("Enter Wrong Password Error Message: ")
+number of attempts = input("Enter # of attempts")
 
 for c in z:
     sys.stdout.write(c)
