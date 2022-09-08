@@ -37,7 +37,7 @@ import sys
 
 url = input("Enter Target Url: ")
 username = input("Enter Target Username: ")
-number of attempts = input("Enter # of attempts")
+number of attempts = input("enter number of attempts")
 
 for c in z:
     sys.stdout.write(c)
