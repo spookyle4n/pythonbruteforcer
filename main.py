@@ -1,7 +1,7 @@
 ######################################################################################################
 # Title: Brute force                                                                                 #
-# Author: Tanvir Hossain Antu                                                                        #
-# Github : https://github.com/Antu7                                                                  #
+# Author: Wyatt Gierer                                                                        #
+# Github : https://github.com/spookyle4n                                                                  #
 ######################################################################################################
 
 print (""" 
